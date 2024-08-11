@@ -1,12 +1,7 @@
-![image](.github/images/banner.jpg)
+_<p align="center">"And then there was PerplexionRP"</p>_
 
 
-_<p align="center">"And then there was Qbox"</p>_
-
-
-# qbx_core
-
-qbx_core is a framework created on September 27, 2022, as a successor to qb-core and continues the development of a solid foundation for building easy-to-use, performant, and secure server resources.
+# PerplexionRP based on Qbox  
 
 Want to know more? View our [documentation](https://qbox-project.github.io/)
 
