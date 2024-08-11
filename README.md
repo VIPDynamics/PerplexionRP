@@ -1,4 +1,4 @@
-_<p align="center">"And then there was PerplexionRP"</p>_
+_<p align="center">"Then there was PerplexionRP - A Qbox Edited Server Framework by VIPDynamics"</p>_
 
 
 # PerplexionRP based on Qbox  
@@ -20,16 +20,3 @@ The core makes available several optional modules for developers to import into 
 - Logger: Can log to either discord, or Ox's logger through one interface
 - Lib: Common functions for tables, strings, math, native audio, vehicles, and drawing text.
 
-# Dependencies
-
-- [oxmysql](https://github.com/overextended/oxmysql)
-- [ox_lib](https://github.com/overextended/ox_lib)
-- [ox_inventory](https://github.com/overextended/ox_inventory)
-
-#
-
-⚠️We advise not modifying the core outside of the config files⚠️
-
-If you feel something is missing or want to suggest additional functionality that can be added to qbx_core, bring it up on the official [Qbox Discord](https://discord.gg/qbox)!
-
-Thank you to everyone and their contributions (large or small!), as this wouldn't have been possible.
